@@ -97,7 +97,7 @@ numpy==2.2.6
 opencv-python==4.12.0.88
 opt_einsum==3.4.0
 optree==0.17.0
-packaging==20.9
+packaging
 pandas==2.3.2
 pandocfilters==1.5.1
 parso==0.8.5
